@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xmorinori/HUTAO-MD/main/media/Для%20шапки%20профиля.jpg"
+       alt="HUTAO MD Banner"
+       style="max-width: 100%; height: auto; display: block; margin: auto;">
+</p>
 
 <h1 align="center">
   HUTAO MD <br><BR>
