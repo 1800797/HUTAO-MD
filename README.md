@@ -22,7 +22,7 @@
   <a href="https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J">
     <img src="https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="CHANNEL">
   </a>
-  <a href="https://wa.me/6285179586051">
+  <a href="https://wa.me/-">
     <img src="https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="OWNER">
   </a>
 </p>
